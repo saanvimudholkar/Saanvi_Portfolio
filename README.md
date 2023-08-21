@@ -20,5 +20,5 @@ Hi there! I'm Saanvi Mudholkar, and I recently graduated with top honors in Math
   * [Starbucks Strategic Global Expansion_Submission Slides_Presentation Video](https://drive.google.com/file/d/1EDjZhBgQipTDf3l0kC9xoZt-TQsUCLYa/view?usp=sharing)
 
 ### :three: Optimization
-* 
+* [Optimization Assignment 1](Optimization Assignment 1.ipynb)
 
