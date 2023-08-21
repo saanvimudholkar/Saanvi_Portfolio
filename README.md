@@ -17,4 +17,4 @@ Hi there! I'm Saanvi Mudholkar, and I recently graduated with top honors in Math
 * _Group Coursework_
   * [Starbucks Strategic Global Expansion_Submission Slides.pdf](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12393464/BUSI3158_Submission.Slides.pdf)
 * _Group Presentation_
-* 
+  
