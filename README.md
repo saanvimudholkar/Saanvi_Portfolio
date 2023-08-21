@@ -20,5 +20,12 @@ Hi there! I'm Saanvi Mudholkar, and I recently graduated with top honors in Math
   * [Starbucks Strategic Global Expansion_Submission Slides_Presentation Video](https://drive.google.com/file/d/1EDjZhBgQipTDf3l0kC9xoZt-TQsUCLYa/view?usp=sharing)
 
 ### :three: Optimization
-* [Optimization Assignment 1](Optimization Assignment 1.ipynb)
+* [Optimization Python Assignment 1](https://github.com/saanvimudholkar/Saanvi_Portfolio/blob/2b0fa7cd8f9159b5e605900f6c758c9d276db7a1/Optimization%20Assignment%201.ipynb)
+* [Optimization Python Assignment 2](https://github.com/saanvimudholkar/Saanvi_Portfolio/blob/2b0fa7cd8f9159b5e605900f6c758c9d276db7a1/Optimization%20Assignment%202.ipynb)
 
+### :four: Multivariate Analysis
+* [Multivariate Analysis R Notebook Coursework 1](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396209/20298508_MATH3057.Coursework.pdf)
+* [Multivariate Analysis R Notebook Coursework 2](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396214/20298508-3.pdf)
+
+### :five: Applied Statistical Modelling
+* [Applied Statistical Modelling R Notebook Coursework](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396234/20298508_MATH3046-3.pdf)
