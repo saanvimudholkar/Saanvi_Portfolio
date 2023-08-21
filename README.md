@@ -22,9 +22,3 @@ Hi there! I'm Saanvi Mudholkar, and I recently graduated with top honors in Math
 ### :three: Optimization
 * [Strategic Change Analysis for the New York Times]
 
-
-**Please note that the subsequent assignment was completed as part of a group project** 
-* _Group Coursework_
-  * [Starbucks Strategic Global Expansion_Submission Slides](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12393464/BUSI3158_Submission.Slides.pdf)
-* _Group Presentation_
-  * [Starbucks Strategic Global Expansion_Submission Slides_Presentation Video](https://drive.google.com/file/d/1EDjZhBgQipTDf3l0kC9xoZt-TQsUCLYa/view?usp=sharing)  
