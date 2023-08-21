@@ -33,7 +33,7 @@ Hi there! I'm Saanvi Mudholkar, and I recently graduated with top honors in Math
 
 ## Year 2 Modules
 ### :one: Human Resource Management with International Perspective
-*[Analysis on Human Resource Management](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396511/20298508_BUSI2160_HRMwIP.Coursework.pdf)
+* [Analysis on Human Resource Management](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396511/20298508_BUSI2160_HRMwIP.Coursework.pdf)
 
 ### :two: Entrepreneurship Theory and Practical
 **Individual Work** 
@@ -44,15 +44,38 @@ Hi there! I'm Saanvi Mudholkar, and I recently graduated with top honors in Math
 
 ### :three: Technology and Organisation
 **Please note that the subsequent assignment was completed as part of a group project** 
-*[Digital Transformation at Netflix](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396666/Group.7_Netflix.pdf)
+* [Digital Transformation at Netflix](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396666/Group.7_Netflix.pdf)
 
 ### :four: Probability Models and Methods
-*[Probability Models and Methods Coursework 1](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396726/20298508-3.pdf)
-*[Probability Models and Methods Coursework 2](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396736/Saanvi.Mudholkar_5571478_assignsubmission_file_20298508_Coursework.pdf)
+* [Probability Models and Methods Coursework 1](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396726/20298508-3.pdf)
+* [Probability Models and Methods Coursework 2](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396736/Saanvi.Mudholkar_5571478_assignsubmission_file_20298508_Coursework.pdf)
 
 ### :five: Statistical Models and Methods
-*[Statistical Report on Association between Pain level of Migraine Patients and Other factors](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396766/20298508_Coursework.pdf)
+* [Statistical Report on Association between Pain level of Migraine Patients and Other factors](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396766/20298508_Coursework.pdf)
 
 ### :six: Introduction to Scientific Computing
-* 
+* [Python Coursework on Various Rootfinding Methods.py](https://github.com/saanvimudholkar/Saanvi_Portfolio/blob/93dc903be07a57e2ca958d58e4d13156b5ae3e24/Python%20Coursework%20on%20Various%20Rootfinding%20Methods.py)
+* [Python Coursework on Various System Solver Method.py](https://github.com/saanvimudholkar/Saanvi_Portfolio/blob/93dc903be07a57e2ca958d58e4d13156b5ae3e24/Python%20Coursework%20on%20Various%20System%20Solver%20Methods.py)
+* [Python Coursework on Polynomial Interpolation.py](https://github.com/saanvimudholkar/Saanvi_Portfolio/blob/93dc903be07a57e2ca958d58e4d13156b5ae3e24/Python%20Coursework%20on%20Polynomial%20Interpolation.py)
+* [Python Coursework on various Numerical Differentiation Methods.py](https://github.com/saanvimudholkar/Saanvi_Portfolio/blob/93dc903be07a57e2ca958d58e4d13156b5ae3e24/Python%20Coursework%20on%20various%20Numerical%20Differentiation%20Methods.py)
+* [Python Coursework on Ordinary Differential Equation.py](https://github.com/saanvimudholkar/Saanvi_Portfolio/blob/93dc903be07a57e2ca958d58e4d13156b5ae3e24/Python%20Coursework%20on%20Ordinary%20Differential%20Equation%20.py)
+
+## Year 1 Modules
+
+### :one: Business Economics
+* [Analysis for the Market of disposable gloves and Workers in Malaysia](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12397058/20298508_BUSI1105_Business_Economics.pdf)
+
+### :two: Organisational Behaviour
+* [Theranos Scandal Case Analysis](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12397077/20298508_OB.Theranos.pdf)
+
+### :three: Probability
+* [Probability Questions Coursework.pdf](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12397112/Saanvi.Mudholkar_3802711_assignsubmission_file_20298508.pdf)
+
+### :four: Analytical & Computational Foundations
+
+### :six: Calculus
+### :seven: Linear Mathematics
+### :eight: Statictics
+
+
 
