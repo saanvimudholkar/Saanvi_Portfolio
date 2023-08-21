@@ -73,7 +73,8 @@ Hi there! I'm Saanvi Mudholkar, and I recently graduated with top honors in Math
 
 ### :four: Analytical & Computational Foundations
 * [Python Coding Coursework 1](https://github.com/saanvimudholkar/Saanvi_Portfolio/blob/21c104f56e896de380880d2c090f3c6a555c92ce/Python%20Coding%20Coursework%201%20.ipynb)
-* [Python Coding Coursework 2]()
+* [Python Coding Coursework 2](https://github.com/saanvimudholkar/Saanvi_Portfolio/blob/0fe93d73ca46f1a99c5fb27733713d027a0e0cac/Python%20Coding%20Coursework%202.ipynb)
+* [Python Coding Coursework 3]()
 ### :six: Calculus
 ### :seven: Linear Mathematics
 ### :eight: Statictics
