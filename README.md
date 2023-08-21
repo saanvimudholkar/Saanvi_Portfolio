@@ -29,3 +29,30 @@ Hi there! I'm Saanvi Mudholkar, and I recently graduated with top honors in Math
 
 ### :five: Applied Statistical Modelling
 * [Applied Statistical Modelling R Notebook Coursework](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396234/20298508_MATH3046-3.pdf)
+
+
+## Year 2 Modules
+### :one: Human Resource Management with International Perspective
+*[Analysis on Human Resource Management](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396511/20298508_BUSI2160_HRMwIP.Coursework.pdf)
+
+### :two: Entrepreneurship Theory and Practical
+**Individual Work** 
+* [Creating a Mini Business Plan](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396587/20298508_Individual.Assignment.pdf)
+
+**Please note that the subsequent assignment was completed as part of a group project** 
+* [Video Presentation on Business Idea](https://youtu.be/2DYpbxEcDH4?si=4dfEmSLrQ7gV5HEA)
+
+### :three: Technology and Organisation
+**Please note that the subsequent assignment was completed as part of a group project** 
+*[Digital Transformation at Netflix](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396666/Group.7_Netflix.pdf)
+
+### :four: Probability Models and Methods
+*[Probability Models and Methods Coursework 1](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396726/20298508-3.pdf)
+*[Probability Models and Methods Coursework 2](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396736/Saanvi.Mudholkar_5571478_assignsubmission_file_20298508_Coursework.pdf)
+
+### :five: Statistical Models and Methods
+*[Statistical Report on Association between Pain level of Migraine Patients and Other factors](https://github.com/saanvimudholkar/Saanvi_Portfolio/files/12396766/20298508_Coursework.pdf)
+
+### :six: Introduction to Scientific Computing
+* 
+
